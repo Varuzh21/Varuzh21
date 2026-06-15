@@ -25,4 +25,3 @@
 
 
 ![](https://github-stats-alpha.vercel.app/api?username=Varuzh21&cc=000&tc=fff&ic=fff&bc=000)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varuzh21&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
